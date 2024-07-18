@@ -4,7 +4,10 @@
 
 class Kennel
 {
+public: 
 
+
+private:
 };
 
 #endif
